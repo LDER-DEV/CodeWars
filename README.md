@@ -1,4 +1,4 @@
 # CodeWars
 
 
-a Repostory of 'Code Wars' solutions i've completed
+a repostory of 'Code Wars' solutions i've completed
