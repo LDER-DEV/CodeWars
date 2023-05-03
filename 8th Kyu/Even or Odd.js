@@ -5,4 +5,4 @@ function evenOrOdd(number) {
     return 'Odd'
 }
 
-//a function that taks a number as a argument adn returns even for even odd for odd
+//a function that takes a number as a argument and returns even for even odd for odd
