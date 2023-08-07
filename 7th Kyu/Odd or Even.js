@@ -9,6 +9,7 @@ function oddOrEven(array) {
    }else{
      return 'even'
    }
+  }
 // }
 
 // // Task:
@@ -29,4 +30,4 @@ function oddOrEven(array) {
 // Output: "even"
 // Have fun!
 
-// FUNDAMENTALSARRAYS
+// FUNDAMENTALSARRAY}
